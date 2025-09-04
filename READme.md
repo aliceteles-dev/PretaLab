@@ -1,0 +1,1 @@
+Oficina de Git e GitHub da PretaLab, Ciclo 14, ano de 2025
